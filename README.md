@@ -10,22 +10,36 @@ A driven and curious learner with a growth mindset, ready to thrive as a develop
   </em>
 </p>
 
-<h3 align="center"><b>Tech Stack</b></h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
-Front End : JavaScript, React, HTML, CSS <br>
-Back End: Ruby, Rails, SQL <br>
-Automated Testing: Rspec, Jasmine, Self-built tests <br>
-Workflow: TDD, CI/CD, GitHub, Pair-Programming <br>
+Front End : JavaScript, React, HTML, CSS. <br>
+Back End: Ruby, Rails, SQL. <br>
+Automated Testing: Rspec, Jasmine, Self-built tests. <br>
+Workflow: TDD, CI/CD, GitHub, Pair-Programming. <br>
+Learning: Java and AWS. 
 </p>
 
-<h3 align="center"><b>Favourite Projects</b></h3>
+<h3 align="center">Favourite Projects</h3>
 
+<p align="center">
 
 Betwixt - Find the mid-point between you and your friend and get recommendations for where to meet.
 
 MakersBNB - Sounds familiar? It's a property rental website. Users can create a space to rent, and guests can request to book.
 
 Notes - Record notes and see them abbreviated below. Then click to see the full note. 
+</p> 
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+Driven - I step forward when people are stepping back.
+Strategist - Finds a clear direction in a complex situation. 
+Self-Starter - Confident in making things happen independently. 
+</p> 
+
+<h3 align="center">Want to know more?</h3>
+
 
 <!--
 
