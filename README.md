@@ -1,6 +1,8 @@
-### Hi there 👋
-
-# Felix Piercy
+<p align="center">
+<img src="https://github.com/fel1xp/fel1xp/blob/main/readme_image_2.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi, I'm Felix </h1>
 A driven Makers Academy graduate with a positive learning mindset, ready to thrive as a developer. I continue to further my skillset beyond Makers Academy by working towards the Amazon Web Services Cloud Practitioner qualification and personal projects. My key language strength is in Ruby as well as building knowledge of JavaScript. Keen interest in serverless software deployment and following a test driven development process.
 
 ## Favourite Coding Projects
