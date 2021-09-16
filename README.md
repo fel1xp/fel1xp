@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Felix <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Junior Software Developer</h3>
 <p align="center">
   <em>
 A driven and curious learner with a growth mindset, ready to thrive as a developer. Committed to writing reliable, maintainable and scalable code, collaborating in teams and comfortable working independently. I am continually improving, taking on new challenges such as an AWS Cloud Practitioner Course and learning Java.
