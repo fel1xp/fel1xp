@@ -3,10 +3,10 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Felix</h1> 
-<h3 align="center">Junior Salesforce Developer</h3>
+<h3 align="center">Salesforce Developer</h3>
 <p align="center">
   <em>
-Currently working for 365 Business Finance as a Salesforce Developer. 
+Currently working for 365 finance as a Salesforce Developer. 
   </em>
 </p>
 
